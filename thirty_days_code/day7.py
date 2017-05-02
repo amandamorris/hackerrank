@@ -1,5 +1,5 @@
 #!/bin/python
-"""print array in reverse order, on a single line"""
+"""prints array in reverse order, on a single line"""
 
 import sys
 
