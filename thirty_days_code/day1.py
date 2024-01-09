@@ -8,6 +8,7 @@ my_double = float(raw_input())
 my_string = raw_input()
 # Print the sum of both integer variables on a new line.
 print i + my_int
+# foobar
 # Print the sum of the double variables on a new line.
 print d + my_double
 # Concatenate and print the String variables on a new line
